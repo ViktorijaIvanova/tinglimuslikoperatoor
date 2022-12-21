@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tinglimuslikoperatoor", "tinglimuslikoperatoor.pyproj", "{8881652E-BEDE-4B30-97DA-49D0200C6064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8881652E-BEDE-4B30-97DA-49D0200C6064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8881652E-BEDE-4B30-97DA-49D0200C6064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74CB22EF-0FBC-466D-AC54-EA0C08D22BBF}
+	EndGlobalSection
+EndGlobal
